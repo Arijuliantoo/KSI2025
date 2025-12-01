@@ -28,7 +28,7 @@ $result = $conn->query("SELECT * FROM mahasiswa ORDER BY id_mahasiswa DESC");
       <input type="text" name="nim" class="form-control" required>
     </div>
     <div class="mb-3">
-      <label class="form-label">Nama</label>
+      <label class="form-label">Nama mahasiswa</label>
       <input type="text" name="nama" class="form-control" required>
     </div>
     <div class="mb-3">
