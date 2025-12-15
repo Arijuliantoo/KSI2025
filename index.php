@@ -7,7 +7,7 @@ $result = $conn->query("SELECT * FROM mahasiswa ORDER BY id_mahasiswa DESC");
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Data Mahasiswa - KSI2025</title>
+  <title>Data Mahasiswa - KSI20255</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
